@@ -1,4 +1,4 @@
-# 🧠 NLW Agents - Projeto Rocketseat
+# 🧠 NLW Agents
 
 Este projeto foi desenvolvido durante um **evento da Rocketseat**, com o objetivo de explorar o uso de **agentes inteligentes na web**, combinando inteligência, design moderno e performance com uma stack de ponta baseada em React 19.
 
